@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-The [Digital Society Lab](https://digitalsocietylab.org/) is an interdisciplinary research centre at McMaster University that engages through scholarship and praxis with the complex societal transformations that have accompanied the digital era. 
+The [Digital Society Lab](https://digitalsocietylab.org/) is an interdisciplinary research centre at [McMaster University](https://www.mcmaster.ca/) that engages through scholarship and praxis with the complex societal transformations that have accompanied the digital era. 
 
 The lab endeavours to advance the study of the social, political, and economic impacts of digital technologies while also harnessing the potential of these technologies for scientific and social innovation. 
 
